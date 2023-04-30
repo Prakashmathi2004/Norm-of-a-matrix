@@ -39,7 +39,7 @@ ans=np.linalg.norm(mat,np.inf)
 norm_of_matrix="{:.2f}".format(ans)
 print(norm_of_matrix)
 ~~~
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 <img width="542" alt="image" src="https://user-images.githubusercontent.com/118350045/235361413-965b3353-9012-4377-a840-d0f63253a249.png">
